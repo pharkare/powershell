@@ -1,0 +1,2 @@
+# powershell
+Learning Microsoft PowerShell
